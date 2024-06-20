@@ -1,5 +1,5 @@
 # База данных для компьютерного клуба
-![img]([https://github.com/Cainones/Auction_DB/blob/main/Auction_ERD.png](https://github.com/skeletus-design/course_work/blob/main/er.png?raw=true))
+![img](https://github.com/skeletus-design/course_work/blob/main/er.png)
 
 >[!TIP]
 + [Типовые запросы](#Типовые-запросы)
